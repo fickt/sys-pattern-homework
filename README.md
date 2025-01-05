@@ -22,7 +22,7 @@
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 ```
 https://github.com/fickt/netology_dz/commit/12dda826f84a4a4c52f69196dcb499606aada084
-
+```
 ---
 
 
