@@ -36,7 +36,7 @@ https://github.com/fickt/netology_dz/commit/12dda826f84a4a4c52f69196dcb499606aad
 4. ` Сделайте коммит и пуш.`
 
 
-https://github.com/fickt/netology_dz/commit/fa74304e61762148b4df70f6cea076d5afc11df5
+https://github.com/fickt/netology_dz/commit/376fc0437a0fdc6bad7425932f30aefe1ee9a601
 
 
 ---
