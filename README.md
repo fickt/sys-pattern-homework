@@ -20,9 +20,9 @@
 13. `Сделайте git push origin master.`
 
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
-```
+
 https://github.com/fickt/netology_dz/commit/12dda826f84a4a4c52f69196dcb499606aada084
-```
+
 ---
 
 
@@ -35,9 +35,9 @@ https://github.com/fickt/netology_dz/commit/12dda826f84a4a4c52f69196dcb499606aad
 3. `Напишите правила в этом файле, чтобы игнорировать любые файлы .pyc, а также все файлы в директории cache.`
 4. ` Сделайте коммит и пуш.`
 
-```
+
 https://github.com/fickt/netology_dz/commit/fa74304e61762148b4df70f6cea076d5afc11df5
-```
+
 
 ---
 
@@ -54,9 +54,9 @@ https://github.com/fickt/netology_dz/commit/fa74304e61762148b4df70f6cea076d5afc1
 7. `Сделайте пуш в основной ветке.`
 8. `Не удаляйте ветку dev.`
 
-```
+
 https://github.com/fickt/netology_dz/network
-```
+
 
 
 
