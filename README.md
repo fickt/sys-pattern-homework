@@ -32,7 +32,7 @@
     скриншоты с успешно собранными сборками.
 
 .gitlab-ci.yml: 
-stages:
+`stages:
   - test
   - build
 
@@ -46,7 +46,7 @@ build:
   stage: build
   image: docker:latest
   script:
-   - docker build .
+   - docker build . `
 
 ![Screenshot from 2025-01-20 00-23-46](https://github.com/user-attachments/assets/6b96d19d-32b2-4ca9-bd1a-e594eee79cba)
 
